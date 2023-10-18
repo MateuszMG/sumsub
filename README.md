@@ -1,8 +1,8 @@
-cd client
+`cd client
 Enter yarn
-Enter yarn start
+Enter yarn start`
 
 
-cd server
+`cd server
 Enter yarn
-Enter yarn start
+Enter yarn start`
