@@ -20,8 +20,9 @@ export const App = () => {
   };
 
   const onMessage = (type: string, payload: string) => {
-    console.log('onMessage - type: payload: ', type, payload);
+    console.log('onMessage - type/payload: ', type, payload);
   };
+
   const onError = (error: string) => {
     alert(error);
   };
